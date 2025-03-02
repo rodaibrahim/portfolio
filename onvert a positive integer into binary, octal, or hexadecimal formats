@@ -1,0 +1,67 @@
+def display_intro():
+    print("**********************************************")
+    print("**        A Number Converter Program        **")
+    print("** Decimal --> Binary, Octal or Hexadecimal **")
+    print("**********************************************")
+
+def display_menu():
+    print("1. Convert to binary value")
+    print("2. Convert to octal value")
+    print("3. Convert to hexadecimal value")
+    print("4. Quit the program\n")
+
+def get_selection(start, end):
+    selection = input("Please make a selection: ")
+    while True:
+        try:
+            selection_int = int(selection)
+            if start <= selection_int <= end:
+                return selection_int
+            else:
+                selection = input("Invalid selection. Try again: ")
+        except ValueError:
+            selection = input("Invalid selection. Try again: ")
+
+def get_number():
+    number = input("Please enter a positive integer: ")
+    while True:
+        try:
+            number_int = int(number)
+            if number_int > 0:
+                return number_int
+            else:
+                number = input("Invalid entry. Try again: ")
+        except ValueError:
+            number = input("Invalid entry. Try again: ")
+
+def convert_number(number, base):
+    if number == 0:
+        return ""
+    else:
+        digits = "0123456789abcdef"
+        return convert_number(number // base, base) + digits[number % base]
+
+def main():
+    display_intro()
+    quit_program = False
+    while not quit_program:
+        display_menu()
+        selection = get_selection(1, 4)
+        if selection == 4:
+            quit_program = True
+        else:
+            number = get_number()
+            base = 0
+            base_name = ""
+            if selection == 1:
+                base = 2
+                base_name = "binary"
+            elif selection == 2:
+                base = 8
+                base_name = "octal"
+            elif selection == 3:
+                base = 16
+                base_name = "hexadecimal"
+
+            converted_number = convert_number(number, base)
+            print(f"{number} is {converted_number} in {base_name}\n")
