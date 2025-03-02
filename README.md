@@ -1,9 +1,12 @@
-# 🎓 [Your Name] - Data Analyst Portfolio
+# 🎓 Roda Ibrahim - Data Analyst Portfolio
 
 Welcome to my **Data Analyst Portfolio**! 🚀  
 Here, you'll find a curated collection of my **projects**, **assignments**, and **certifications** that showcase my journey to becoming a data analyst. As a graduate student at the University of Auckland, I am passionate about transforming raw data into insightful stories and solving real-world problems using data-driven solutions.
 
 ---
+## 🚀What I'm upto
+currently building a porofilio that will bring all my skills together,
+im also currently working towars obtaning the 
 
 ## 👩‍💻 About Me
 
@@ -25,9 +28,6 @@ I’m currently pursuing a **Bachelor of Science in Computer Science and Informa
 ---
 
 ## 📂 Projects
-
-### 🚀 Featured Projects
-
 Here are some of the key projects I’ve worked on. Each of these demonstrates my skills in data analysis, visualization, and reporting.
 
 1. **[Project 1 Title]**  
@@ -51,8 +51,8 @@ Here are some of the key projects I’ve worked on. Each of these demonstrates m
 
 I believe in continuous learning and have completed various certifications to build a strong foundation in data analysis. Here are some that I’m particularly proud of:
 
-- **IBM Data Analyst Professional Certificate** (Coursera) 📜
-- **Microsoft Power BI Certificate** (Coursera) 📜
+- **IBM Data Analyst Professional Certificate** (Coursera) 📜         
+- im currently working on obtating : Microsoft Certified: Power BI Data Analyst Associate Certification
 
 ---
 
