@@ -1,5 +1,8 @@
 # My Data Analysis Portfolio
+title: Roda ibrahim
 
+show_downloads: true
+theme:jekyll-theme-minimal
 Welcome to my portfolio! Here you will find various data analysis projects that demonstrate my skills in data processing, analysis, and visualization.
 
 ## About Me
