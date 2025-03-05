@@ -1,7 +1,11 @@
 # 🎓 Roda Ibrahim - Data Analyst Portfolio
 
+I’m so passionate about research and problem-solving that I tend to dive deep into topics—sometimes to the point of losing track of time. This obsession with uncovering the hidden patterns, connections, and insights is what drives me in data analysis. Whether it’s analyzing data trends or deep diving into my latest celebrity crush, I thrive on unraveling the mysteries beneath the surface. 
+
 Welcome to my **Data Analyst Portfolio**! 🚀  
-Here, you'll find a curated collection of my **projects**, **assignments**, and **certifications** that showcase my journey to becoming a data analyst. As a graduate student at the University of Auckland, I am passionate about transforming raw data into insightful stories and solving real-world problems using data-driven solutions.
+Here, you'll find a curated collection of my **projects**, **assignments**, and **certifications** that showcase my journey to becoming a data analyst. As a graduate student at the University of Auckland, I am passionate about transforming raw data into insightful stories and solving real-world problems using data-driven solutions. 
+
+I’m so passionate about research and problem-solving that I tend to dive deep into topics—sometimes to the point of losing track of time. This obsession with uncovering the hidden patterns, connections, and insights is what drives me in data analysis. Whether it’s analyzing data trends or deep diving into my latest celebrity crush, I thrive on unraveling the mysteries beneath the surface
 
 ---
 ## 🚀What I'm upto
