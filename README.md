@@ -4,14 +4,16 @@ Welcome to my **Data Analyst Portfolio**! 🚀
 Here, you'll find a curated collection of my **projects**, **assignments**, and **certifications** that showcase my journey to becoming a data analyst. As a graduate student at the University of Auckland, I am passionate about transforming raw data into insightful stories and solving real-world problems using data-driven solutions.
 
 ---
+
+## 👩‍💻 About Me
+
+Hi, I’m Roda!  
+I’m currently pursuing a **Bachelor of Science in Computer Science and Information Management Technology** at the University of Auckland. I’m passionate about data analysis, statistical modeling, and turning insights into action. I’m so passionate about research and problem-solving that I tend to dive deep into topics—sometimes to the point of losing track of time. This obsession with uncovering the hidden patterns, connections, and insights is what drives me in data analysis. Whether it’s analyzing data trends or deep diving into my latest celebrity crush, I thrive on unraveling the mysteries beneath the surface.
+
 ## 🚀What I'm upto
 currently building a porofilio that will bring all my skills together,
 im also currently working towars obtaning the 
 
-## 👩‍💻 About Me
-
-Hi, I’m [Your Name]!  
-I’m currently pursuing a **Bachelor of Science in Computer Science and Information Management Technology** at the University of Auckland. I’m passionate about data analysis, statistical modeling, and turning insights into action.
 
 💡 **My core skills include**:
 - Data Cleaning and Preprocessing 🧹
