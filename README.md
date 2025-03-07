@@ -33,7 +33,7 @@ I’m preparing for my graduation in 2025 from the University of Auckland with a
 ## 📂 Projects
 Here are some of the key projects I’ve worked on. Each of these demonstrates my skills in data analysis, visualization, and reporting.
 
-# i need sql project here *
+
  ### Data Collection with Python ###
 📝 **Description**: This Python program analyzes traveller arrival data to New Zealand from various regions across the months of November to February. Using object-oriented programming, it organizes the data into three classes: Arrival (for monthly data), Region (for a region's data across months), and Continent (for data across multiple regions). The program reads data from text files (e.g., AU_NOV.txt), processes it, and organizes the arrival statistics by region and continent. This project helped me improve my skills in data handling, file processing, and object-oriented design.<br> 
 📂 **Repository**:https://github.com/rodaibrahim/portfolio/blob/main/NZ-Resident%20Traveller%20Arrivals%20Analysis.ipynb <br> 
