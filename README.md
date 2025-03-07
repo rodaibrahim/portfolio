@@ -81,7 +81,8 @@ Beyond the Allbirds case study, I worked on data analysis and modeling using spr
 I believe in continuous learning and have completed various certifications to build a strong foundation in data analysis. Here are some that I’m particularly proud of:
 
 - **IBM Data Analyst Professional Certificate** (Coursera) 📜         
-- im currently working on obtating : Microsoft Certified: Power BI Data Analyst Associate Certification
+https://github.com/rodaibrahim/portfolio/blob/main/Coursera%20W3OWB0FOVYSV.pdf
+![image](https://github.com/user-attachments/assets/fc019141-80b2-4823-9b3e-70e6fdc35597)
 
 ---
 
