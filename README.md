@@ -1,7 +1,7 @@
 # 🎓 Roda Ibrahim - Data Analyst Portfolio
 
 Welcome to my **Data Analyst Portfolio**! 🚀  
-Here, you'll find a curated collection of my **projects**, **assignments**, and **certifications** that showcase my journey to becoming a data analyst. As a graduate student at the University of Auckland, I am passionate about transforming raw data into insightful stories and solving real-world problems using data-driven solutions.
+Here, you'll find a curated collection of my **projects**, **assignments**, and **certifications** that showcase my journey to becoming a data analyst. As a graduate student at the University of Auckland, I am passionate about transforming raw data into insightful stories and solving real-world problems using data-driven solutions. testing
 
 ---
 
