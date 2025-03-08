@@ -23,13 +23,14 @@ I’m so passionate about research and problem-solving that I tend to dive deep 
 
 ---
 
-## 📂 Projects
-Here are some of the key projects I’ve worked on. Each of these demonstrates my skills in data analysis, visualization, and reporting.
+## 📊 Projects
+Here are 5 KEY projects I’ve worked on. Each of these demonstrates my skills in data analysis, visualization, and reporting.
 
 
-### Data Collection with Python
+## PROJECT 1: Data Collection with Python
  
 📝 **Description**: 
+
 This Python program **analyzes traveller arrival data to New Zealand** from various regions across the months of November to February.
 
 📋**Steps**:
@@ -42,7 +43,7 @@ This Python program **analyzes traveller arrival data to New Zealand** from vari
 🔧 **Technologies**: Python, Object-Oriented Programming (OOP), File I/O
 
 
-### Data Analysis & Visualization Project 
+### PROJECT 2: Data Analysis & Visualization Project 
  
  📝 **Description**: In this Group Project, we analyzed a dataset related to Top Spotify Songs to improve our data analysis and visualization skills. 
  
