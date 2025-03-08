@@ -27,7 +27,7 @@ I’m so passionate about research and problem-solving that I tend to dive deep 
 Here are 5 KEY projects I’ve worked on. Each of these demonstrates my skills in data analysis, visualization, and reporting.
 
 
-## PROJECT 1: Data Collection with Python
+### PROJECT 1: Data Collection with Python
  
 📝 **Description**: 
 
@@ -36,16 +36,17 @@ This Python program **analyzes traveller arrival data to New Zealand** from vari
 📋**Steps**:
 - Using object-oriented programming, it organizes the data into three classes: Arrival (for monthly data), Region (for a region's data across months), and Continent (for data across multiple regions).
 - The program reads data from text files (e.g., AU_NOV.txt), processes it, and organizes the arrival statistics by region and continent.
-- This project helped me improve my skills in **data handling, file processing, and object-oriented design**. 
+- This project helped me improve my skills in data handling, file processing, and object-oriented design. 
 
 📂 **Repository**: [NZ-Resident Traveller Arrivals Analysis](https://github.com/rodaibrahim/portfolio/blob/main/NZ-Resident%20Traveller%20Arrivals%20Analysis.ipynb)
 
-🔧 **Technologies**: Python, Object-Oriented Programming (OOP), File I/O
+🔧 **Technologies: Python, Object-Oriented Programming (OOP), File I/O**
 
 
 ### PROJECT 2: Data Analysis & Visualization Project 
  
- 📝 **Description**: In this Group Project, we analyzed a dataset related to Top Spotify Songs to improve our data analysis and visualization skills. 
+ 📝 **Description**:
+ In this Group Project, we analyzed a dataset related to Top Spotify Songs to improve our data analysis and visualization skills. 
  
  📋**Steps**:
 - First, we came up with five questions about the data that fit our theme. Then, we used Tableau to create visualizations and a dashboard to answer those questions.
@@ -53,7 +54,7 @@ This Python program **analyzes traveller arrival data to New Zealand** from vari
 -  Finally, we reflected on our website design process and critiqued it based on what we learned about visual design. Overall, this assignment helped us develop skills in data analysis, visualization, and design while working as a team.
   
    📂 **Repository**:[Top Spotify Songs](https://github.com/rodaibrahim/portfolio/blob/main/Top%20Spotify%20Songs.pdf)
-   🔧 **Technologies**: Excel, Tableau, Wix, Kaggle
+   🔧 **Technologies: Excel, Tableau, Wix, Kaggle**
 
    ### SQL & Data Modeling for Business Applications
    
