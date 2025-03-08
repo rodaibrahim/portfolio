@@ -1,4 +1,4 @@
-<center># Welcome to my Data Analyst Portfolio!</center>
+# Welcome to my Data Analyst Portfolio!
 
 ---
 ## 👩‍💻 About Me
