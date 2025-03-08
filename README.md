@@ -31,7 +31,7 @@ Here are 5 KEY projects I’ve worked on. Each of these demonstrates my skills i
  
 📝 **Description**: 
 
-This Python program **analyzes traveller arrival data to New Zealand** from various regions across the months of November to February.
+This Python program analyzes traveller arrival data to New Zealand from various regions across the months of November to February.
 
 📋**Steps**:
 - Using object-oriented programming, it organizes the data into three classes: Arrival (for monthly data), Region (for a region's data across months), and Continent (for data across multiple regions).
@@ -43,10 +43,12 @@ This Python program **analyzes traveller arrival data to New Zealand** from vari
 🔧 **Technologies: Python, Object-Oriented Programming (OOP), File I/O**
 
 
+
 ### PROJECT 2: Data Analysis & Visualization Project 
  
  📝 **Description**:
- In this Group Project, we analyzed a dataset related to Top Spotify Songs to improve our data analysis and visualization skills. 
+ 
+In this Group Project, we analyzed a dataset related to Top Spotify Songs to improve our data analysis and visualization skills. 
  
  📋**Steps**:
 - First, we came up with five questions about the data that fit our theme. Then, we used Tableau to create visualizations and a dashboard to answer those questions.
@@ -56,13 +58,19 @@ This Python program **analyzes traveller arrival data to New Zealand** from vari
    📂 **Repository**:[Top Spotify Songs](https://github.com/rodaibrahim/portfolio/blob/main/Top%20Spotify%20Songs.pdf)
    🔧 **Technologies: Excel, Tableau, Wix, Kaggle**
 
-   ### SQL & Data Modeling for Business Applications
+### SQL & Data Modeling for Business Applications
    
-📝 **Description**: This Data Management class taught me essential skills for handling and organizing data effectively. This class covered structured and unstructured data, relational database modeling, and writing SQL queries, along with Python for data preparation and manipulation. I also gained insights into the ethical and societal challenges of data management. Through hands-on assignments and group projects, I developed critical thinking, problem-solving, and collaboration skills that will be valuable in my future role as a data analyst.
+📝 **Description**:  
 
-One of the key assignments I completed in this course involved designing a relational database for a fictitious online web novel platform called NiceReads. The task required me to analyze the platform’s complex data requirements and improve an initial ERD that had been generated using ChatGPT. My role was to identify design flaws, enhance the database structure, and ensure it accurately represented the relationships between users, authors, employees, novels, and transactions. This assignment reinforced my ability to break down complex data problems, apply database design principles, and iteratively refine my work to create a well-structured and functional data model.<br>
-   📂 **Repository**:[ https://github.com/rodaibrahim/portfolio/blob/main/Busan201%20Design%20Assignment%20(2).pdf ](url)<br>
-   🔧 **Technologies**: Microsoft SQL Server, SQL, ERD Design, Data Modeling
+This project focused on handling and organizing data effectively, with a focus on relational database modeling and SQL queries, alongside Python for data preparation and manipulation. The project also covered the ethical and societal challenges of data management.
+
+📋 **Steps**:  
+- Designed a relational database for a fictitious online web novel platform, NiceReads.
+- Analyzed the platform's complex data requirements and improved an initial ERD generated using ChatGPT.
+- Identified design flaws in the initial database structure and refined it to accurately represent the relationships between users, authors, employees, novels, and transactions.
+- Iteratively refined the work to create a well-structured and functional data model.
+   📂 **Repository**:[Busan201 Design Assignment (2)](https://github.com/rodaibrahim/portfolio/blob/main/Busan201%20Design%20Assignment%20(2).pdf)
+   🔧 **Technologies: Microsoft SQL Server, SQL, ERD Design, Data Modeling**
    
  ### Data Analysis and Database Modeling for Tech Trends ###  ##infgmt indidiuval assignment##
 📝 **Description**: In this assignment, I worked on three main tasks to develop my skills in data analysis, database design, and technology trends. First, I used spreadsheets to analyze employee data, calculating things like tenure, bonuses, and salaries, and creating pivot tables to explore trends across departments and demographics. Next, I designed a logical Entity-Relationship Diagram (ERD) for a healthcare clinic system, making sure to include entities like employees, patients, appointments, and treatment plans. Finally, I researched and wrote about how two emerging technology trends (like AI or IoT) could be applied in an industry of my choice, linking it to competitive strategies. It was a great way to practice data manipulation, database modeling, and strategic thinking!<br>
