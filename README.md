@@ -3,15 +3,9 @@
 ## 👩‍💻 About Me
 Hi, I’m Roda!  
 
-- I’m currently pursuing a **Bachelor of Science in Computer Science and Information Management Technology** at the University of Auckland. I’m passionate about data analysis, statistical modeling, and turning insights into action.
+I’m currently pursuing a **Bachelor of Science in Computer Science and Information Management Technology** at the University of Auckland. I’m passionate about data analysis, statistical modeling, and turning insights into action.
   
-- I’m so passionate about research and problem-solving that I tend to dive deep into topics—sometimes to the point of losing track of time. This obsession with uncovering the hidden patterns, connections, and insights is what drives me in data analysis. Whether it’s analyzing data trends or deep diving into my latest celebrity crush, I thrive on unraveling the mysteries beneath the surface
-
-## 🚀What I'm upto
-I’m working on my data analyst portfolio, focusing on Airbnb data analysis projects like Pricing Trends, Occupancy Rates, Host Behavior, and Review Sentiment Analysis. My interest in this project started when I did Airbnb hopping around Auckland this summer and became curious about the data behind it. I'm also gaining skills through courses like Microsoft Power BI and Data Analysis with Python on Coursera, aiming to get the Power BI certification.
-
-I’m preparing for my graduation in 2025 from the University of Auckland with a degree in Computer Science and Information Management Technology.
-
+I’m so passionate about research and problem-solving that I tend to dive deep into topics—sometimes to the point of losing track of time. This obsession with uncovering the hidden patterns, connections, and insights is what drives me in data analysis. Whether it’s analyzing data trends or deep diving into my latest celebrity crush, I thrive on unraveling the mysteries beneath the surface
 
 💡 **My core skills include**:
 - Data Cleaning and Preprocessing 🧹
@@ -32,9 +26,15 @@ Here are some of the key projects I’ve worked on. Each of these demonstrates m
 
 
  ### Data Collection with Python ###
-📝 **Description**: This Python program analyzes traveller arrival data to New Zealand from various regions across the months of November to February. Using object-oriented programming, it organizes the data into three classes: Arrival (for monthly data), Region (for a region's data across months), and Continent (for data across multiple regions). The program reads data from text files (e.g., AU_NOV.txt), processes it, and organizes the arrival statistics by region and continent. This project helped me improve my skills in data handling, file processing, and object-oriented design.<br> 
-📂 **Repository**:https://github.com/rodaibrahim/portfolio/blob/main/NZ-Resident%20Traveller%20Arrivals%20Analysis.ipynb <br> 
+- This Python program **analyzes traveller arrival data to New Zealand** from various regions across the months of November to February.
+- Using object-oriented programming, it organizes the data into three classes: Arrival (for monthly data), Region (for a region's data across months), and Continent (for data across multiple regions).
+- The program reads data from text files (e.g., AU_NOV.txt), processes it, and organizes the arrival statistics by region and continent.
+- This project helped me improve my skills in data handling, file processing, and object-oriented design.<br> 
+
+📂 **Repository**: [NZ-Resident Traveller Arrivals Analysis](https://github.com/rodaibrahim/portfolio/blob/main/NZ-Resident%20Traveller%20Arrivals%20Analysis.ipynb)
+
 🔧 **Technologies**: Python, Object-Oriented Programming (OOP), File I/O
+
 
  ### Data Analysis & Visualization Project ###   ##infgmt group assignment##<br>
  📝 **Description**: In this Group Project, we analyzed a dataset related to Top Spotify Songs to improve our data analysis and visualization skills. First, we came up with five questions about the data that fit our theme. Then, we used Tableau to create visualizations and a dashboard to answer those questions. After that, we built a prototype website using WIX to present our findings, making sure to apply visual design principles to make it clear and engaging. Finally, we reflected on our website design process and critiqued it based on what we learned about visual design. Overall, this assignment helped us develop skills in data analysis, visualization, and design while working as a team.<br>
@@ -94,6 +94,10 @@ I have hands-on experience with the following tools and technologies, which help
 - **Version Control**: Git, GitHub
 
 ---
+## 🚀What I'm upto
+I’m working on my data analyst portfolio, focusing on Airbnb data analysis projects like Pricing Trends, Occupancy Rates, Host Behavior, and Review Sentiment Analysis. My interest in this project started when I did Airbnb hopping around Auckland this summer and became curious about the data behind it. I'm also gaining skills through courses like Microsoft Power BI and Data Analysis with Python on Coursera, aiming to get the Power BI certification.
+
+I’m preparing for my graduation in 2025 from the University of Auckland with a degree in Computer Science and Information Management Technology.
 
 ## 📬 Get in Touch
 
