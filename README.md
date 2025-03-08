@@ -1,4 +1,5 @@
-<center># 🎓 Welcome to my **Data Analyst Portfolio!</center>
+<center># Welcome to my Data Analyst Portfolio!</center>
+
 ---
 ## 👩‍💻 About Me
 Hi, I’m Roda!  
