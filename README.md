@@ -2,7 +2,7 @@
 
 ---
 ## 👩‍💻 About Me
-Hi, I’m Roda!  
+##### Hi, I’m Roda!
 
 I’m currently pursuing a **Bachelor of Science in Computer Science and Information Management Technology** at the University of Auckland. I’m passionate about data analysis, statistical modeling, and turning insights into action.
   
