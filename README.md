@@ -42,8 +42,6 @@ This Python program analyzes traveller arrival data to New Zealand from various 
 
 🔧 **Technologies: Python, Object-Oriented Programming (OOP), File I/O**
 
-
-
 ### PROJECT 2: Data Analysis & Visualization Project 
  
  📝 **Description**:
@@ -56,6 +54,7 @@ In this Group Project, we analyzed a dataset related to Top Spotify Songs to imp
 -  Finally, we reflected on our website design process and critiqued it based on what we learned about visual design. Overall, this assignment helped us develop skills in data analysis, visualization, and design while working as a team.
   
    📂 **Repository**:[Top Spotify Songs](https://github.com/rodaibrahim/portfolio/blob/main/Top%20Spotify%20Songs.pdf)
+   
    🔧 **Technologies: Excel, Tableau, Wix, Kaggle**
 
 ### SQL & Data Modeling for Business Applications
@@ -71,22 +70,30 @@ This project focused on handling and organizing data effectively, with a focus o
 - Iteratively refined the work to create a well-structured and functional data model.
    📂 **Repository**:[Busan201 Design Assignment (2)](https://github.com/rodaibrahim/portfolio/blob/main/Busan201%20Design%20Assignment%20(2).pdf)
    🔧 **Technologies: Microsoft SQL Server, SQL, ERD Design, Data Modeling**
-   
+
+# choose between projext 2 or 4
+
  ### Data Analysis and Database Modeling for Tech Trends ###  ##infgmt indidiuval assignment##
 📝 **Description**: In this assignment, I worked on three main tasks to develop my skills in data analysis, database design, and technology trends. First, I used spreadsheets to analyze employee data, calculating things like tenure, bonuses, and salaries, and creating pivot tables to explore trends across departments and demographics. Next, I designed a logical Entity-Relationship Diagram (ERD) for a healthcare clinic system, making sure to include entities like employees, patients, appointments, and treatment plans. Finally, I researched and wrote about how two emerging technology trends (like AI or IoT) could be applied in an industry of my choice, linking it to competitive strategies. It was a great way to practice data manipulation, database modeling, and strategic thinking!<br>
    📂 **Repository**: [https://github.com/rodaibrahim/portfolio/blob/main/technology%20trends.pdf](url)<br>
    🔧 **Technologies**: Excel, ERD
 
+   
+### Strategic Data Analysis & Business Process Optimization
 
- ###Strategic Data Analysis & Business Process Optimization ###
-📝 **Description** : I developed skills in analyzing and designing business systems to solve real-world problems. This work emphasized hands-on learning, including data modeling, process modeling, and system requirements gathering.
+📝 **Description**:  
+I developed skills in analyzing and designing business systems to solve real-world problems. This work emphasized hands-on learning, including data modeling, process modeling, and system requirements gathering.
 
-One of the key projects I worked on was analyzing Allbirds, a sustainable footwear company, to understand how they address environmental challenges in the footwear industry. I evaluated their value chain, applied **Porter’s Five Forces** and Generic Strategies, and proposed process improvements like fuel flow meters and cargo monitoring to optimize their operations and reduce their carbon footprint. I also created a vision statement for Allbirds, mapped their business processes, and identified opportunities for cost reduction while maintaining their commitment to sustainability.
+📋 **Steps**:  
+- Analyzed Allbirds, a sustainable footwear company, to understand their approach to addressing environmental challenges in the footwear industry.
+- Evaluated Allbirds' value chain and applied **Porter’s Five Forces** and Generic Strategies to assess their market position.
+- Proposed process improvements, such as fuel flow meters and cargo monitoring, to optimize operations and reduce their carbon footprint.
+- Created a vision statement for Allbirds and mapped their business processes to identify opportunities for cost reduction while maintaining sustainability.
+- Conducted data analysis and modeling using spreadsheets, and developed logical ERDs for database design.
+- Explored how emerging technology trends like AI and IoT can transform industries.
 
-Beyond the Allbirds case study, I worked on data analysis and modeling using spreadsheets, created logical ERDs for database design, and explored how emerging technology trends like AI and IoT can transform industries. This course equipped me with the technical and strategic skills needed for roles in business analysis, IT consulting, and system design.
-
-📂 **Repository**: https://github.com/rodaibrahim/portfolio/blob/main/Allbirds-Sustainable-Footwear.docx<br>
-🔧 **Technologies**: Porter’s Five Forces, Value Chain Analysis, Process Mapping, Strategic Analysis, ERDs, Spreadsheets
+📂 **Repository**: [Strategic Data Analysis & Business Process Optimization](https://github.com/rodaibrahim/portfolio/blob/main/Allbirds-Sustainable-Footwear.doc)  
+🔧 **Technologies**: Data Modeling, Process Modeling, ERD Design, AI, IoT, Porter’s Five Forces
    
 # Upcoming Projects
 ### Analyzing Airbnb Market Trends
