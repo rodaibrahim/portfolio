@@ -28,7 +28,9 @@ Here are some of the key projects I’ve worked on. Each of these demonstrates m
 
 
  ### Data Collection with Python
+ 
 📝 **Description**: This Python program **analyzes traveller arrival data to New Zealand** from various regions across the months of November to February.
+
 📋**Steps**:
 - Using object-oriented programming, it organizes the data into three classes: Arrival (for monthly data), Region (for a region's data across months), and Continent (for data across multiple regions).
 - The program reads data from text files (e.g., AU_NOV.txt), processes it, and organizes the arrival statistics by region and continent.
@@ -40,7 +42,9 @@ Here are some of the key projects I’ve worked on. Each of these demonstrates m
 
 
  ### Data Analysis & Visualization Project 
+ 
  📝 **Description**: In this Group Project, we analyzed a dataset related to Top Spotify Songs to improve our data analysis and visualization skills. 
+ 
  📋**Steps**:
 - First, we came up with five questions about the data that fit our theme. Then, we used Tableau to create visualizations and a dashboard to answer those questions.
 - We then built a prototype website using WIX to present our findings, making sure to apply visual design principles to make it clear and engaging.
@@ -49,7 +53,8 @@ Here are some of the key projects I’ve worked on. Each of these demonstrates m
    📂 **Repository**:[Top Spotify Songs](https://github.com/rodaibrahim/portfolio/blob/main/Top%20Spotify%20Songs.pdf)
    🔧 **Technologies**: Excel, Tableau, Wix, Kaggle
 
-   ### SQL & Data Modeling for Business Applications 
+   ### SQL & Data Modeling for Business Applications
+   
 📝 **Description**: This Data Management class taught me essential skills for handling and organizing data effectively. This class covered structured and unstructured data, relational database modeling, and writing SQL queries, along with Python for data preparation and manipulation. I also gained insights into the ethical and societal challenges of data management. Through hands-on assignments and group projects, I developed critical thinking, problem-solving, and collaboration skills that will be valuable in my future role as a data analyst.
 
 One of the key assignments I completed in this course involved designing a relational database for a fictitious online web novel platform called NiceReads. The task required me to analyze the platform’s complex data requirements and improve an initial ERD that had been generated using ChatGPT. My role was to identify design flaws, enhance the database structure, and ensure it accurately represented the relationships between users, authors, employees, novels, and transactions. This assignment reinforced my ability to break down complex data problems, apply database design principles, and iteratively refine my work to create a well-structured and functional data model.<br>
