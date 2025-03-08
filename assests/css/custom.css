@@ -1,1 +1,17 @@
+body {
+    line-height: 1.8;  /* Increase this value as needed */
+}
+.post-content {
+    padding: 20px;
+    margin: 20px;
+}
+
+.container {
+    padding: 20px;
+    max-width: 900px;  /* Adjust max width as needed */
+    margin: 0 auto;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 15px; /* Adjust as needed */
+}
 
