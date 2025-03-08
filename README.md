@@ -7,7 +7,7 @@
 I’m currently pursuing a **Bachelor of Science in Computer Science and Information Management Technology** at the University of Auckland. I’m passionate about data analysis, statistical modeling, and turning insights into action.
 <h4 align="center">Why Data Analytics?</h4>
 
-I’m so passionate about research and problem-solving that I tend to dive deep into topics—sometimes to the point of losing track of time. This obsession with uncovering the hidden patterns, connections, and insights is what drives me in data analysis. Whether it’s analyzing data trends or deep diving into my latest celebrity crush, I thrive on unraveling the mysteries beneath the surface
+I’m so passionate about research and problem-solving that I tend to dive deep into topics—sometimes to the point of losing track of time. This obsession with uncovering the hidden patterns, connections, and insights is what drives me in data analysis. Whether it’s analyzing data trends or deep diving into true crime stories , I thrive on unraveling the mysteries beneath the surface
 
 💡 **My core skills include**:
 - Data Cleaning and Preprocessing 🧹
