@@ -1,5 +1,7 @@
 title: Roda Ibrahim
 logo: assets/images/ps.png
 show_downloads: true
-
 theme: jekyll-theme-minimal
+extras:
+  - path: "/assets/css/custom.css"
+
