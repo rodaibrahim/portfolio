@@ -5,7 +5,7 @@
 #### Hi, I’m Roda!
 
 I’m currently pursuing a **Bachelor of Science in Computer Science and Information Management Technology** at the University of Auckland. I’m passionate about data analysis, statistical modeling, and turning insights into action.
-  
+ <centre> **why?** </centre> 
 I’m so passionate about research and problem-solving that I tend to dive deep into topics—sometimes to the point of losing track of time. This obsession with uncovering the hidden patterns, connections, and insights is what drives me in data analysis. Whether it’s analyzing data trends or deep diving into my latest celebrity crush, I thrive on unraveling the mysteries beneath the surface
 
 💡 **My core skills include**:
