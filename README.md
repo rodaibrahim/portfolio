@@ -9,18 +9,21 @@ I’m currently pursuing a **Bachelor of Science in Computer Science and Informa
 
 I’m so passionate about research and problem-solving that I tend to dive deep into topics—sometimes to the point of losing track of time. This obsession with uncovering the hidden patterns, connections, and insights is what drives me in data analysis. Whether it’s analyzing data trends or deep diving into true crime stories , I thrive on unraveling the mysteries beneath the surface
 
+## Skills & Technologies
+
 💡 **My core skills include**:
-- Data Cleaning and Preprocessing 🧹
-- Exploratory Data Analysis (EDA) 🔍
-- Data Visualization (Power BI, Python) 📊
-- Statistical Analysis and Hypothesis Testing 📉
-- Machine Learning (Scikit-learn) 🤖
+- Data Cleaning and Preparation
+- Data Visualization
+- Statistical Analysis
+- SQL
+- Critical Thinking and Problem-Solving
+- Communication and Storytelling
 
 🌐 **Technologies I work with**:
-- **Languages**: Python, SQL
-- **Tools**: Power BI, Git, GitHub
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-
+- **Languages:** Python, SQL
+- **Data Analysis & Visualization:** Power BI, Tableau, Excel
+- **Database & Modeling:** ERD Design, Data Modeling
+- **Other Tools:** Wix (Website Prototyping)
 ---
 
 ## 📊 Projects
@@ -94,21 +97,10 @@ I developed skills in analyzing and designing business systems to solve real-wor
 
 I believe in continuous learning and have completed various certifications to build a strong foundation in data analysis. Here are some that I’m particularly proud of:
 
-- **📜IBM Data Analyst Professional [Certificate](https://github.com/rodaibrahim/portfolio/blob/main/Coursera%20W3OWB0FOVYSV.pdf)** (Coursera)          
+- **📜IBM Data Analyst Professional Certificate** (Coursera)          
 
-
+[link](https://github.com/rodaibrahim/portfolio/blob/main/Coursera%20W3OWB0FOVYSV.pdf)
 ![image](https://github.com/user-attachments/assets/fc019141-80b2-4823-9b3e-70e6fdc35597)
-
----
-
-## 🛠️ Tools & Technologies
-
-I have hands-on experience with the following tools and technologies, which help me bring data to life:
-
-- **Data Analysis**: Python (Pandas, NumPy), SQL
-- **Data Visualization**: Power BI, Matplotlib, Seaborn
-- **Machine Learning**: Scikit-learn, TensorFlow (Beginner)
-- **Version Control**: Git, GitHub
 
 ---
 ## 🚀What I'm upto
