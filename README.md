@@ -23,7 +23,6 @@ I’m so passionate about research and problem-solving that I tend to dive deep 
 - **Languages:** Python, SQL
 - **Data Analysis & Visualization:** Power BI, Tableau, Excel
 - **Database & Modeling:** ERD Design, Data Modeling
-- **Other Tools:** Wix (Website Prototyping)
 ---
 
 ## 📊 Projects
@@ -55,10 +54,8 @@ In this Group Project, we analyzed a dataset related to Top Spotify Songs to imp
 - First, we came up with five questions about the data that fit our theme. Then, we used Tableau to create visualizations and a dashboard to answer those questions.
 - We then built a prototype website using WIX to present our findings, making sure to apply visual design principles to make it clear and engaging.
 -  Finally, we reflected on our website design process and critiqued it based on what we learned about visual design. Overall, this assignment helped us develop skills in data analysis, visualization, and design while working as a team.
-  
-   📂 **Repository**: [Top Spotify Songs](https://github.com/rodaibrahim/portfolio/blob/main/Top%20Spotify%20Songs.pdf)
-   
-   🔧 **Technologies: Excel, Tableau, Wix, Kaggle**
+📂 **Repository**: [Top Spotify Songs](https://github.com/rodaibrahim/portfolio/blob/main/Top%20Spotify%20Songs.pdf)
+🔧 **Technologies: Excel, Tableau, Wix, Kaggle**
 
 ### SQL & Data Modeling for Business Applications
    
@@ -71,8 +68,10 @@ This project focused on handling and organizing data effectively, with a focus o
 - Analyzed the platform's complex data requirements and improved an initial ERD generated using ChatGPT.
 - Identified design flaws in the initial database structure and refined it to accurately represent the relationships between users, authors, employees, novels, and transactions.
 - Iteratively refined the work to create a well-structured and functional data model.
+
 📂 **Repository**:[Busan201 Design Assignment (2)](https://github.com/rodaibrahim/portfolio/blob/main/Busan201%20Design%20Assignment%20(2).pdf)
-🔧 **Technologies: Microsoft SQL Server, SQL, ERD Design, Data Modeling**
+
+🔧 **Technologies:ERD Design, Data Modeling,SQL**
    
 ### Strategic Data Analysis & Business Process Optimization
 
@@ -99,13 +98,15 @@ I believe in continuous learning and have completed various certifications to bu
 
 - **📜IBM Data Analyst Professional Certificate** (Coursera)          
 
-[link](https://github.com/rodaibrahim/portfolio/blob/main/Coursera%20W3OWB0FOVYSV.pdf)
+[##**LINK**]
+
+(https://github.com/rodaibrahim/portfolio/blob/main/Coursera%20W3OWB0FOVYSV.pdf)
 ![image](https://github.com/user-attachments/assets/fc019141-80b2-4823-9b3e-70e6fdc35597)
 
 ---
 ## 🚀What I'm upto
 - I’m working on my data analyst portfolio, focusing on Airbnb data analysis projects like Pricing Trends, Occupancy Rates, Host Behavior, and Review Sentiment Analysis. My interest in this project started when i begin noticing the price differences between the Airbnb properties I stayed at. This sparked my curiosity about how various factors impact pricing, occupancy, and profitability in the Airbnb market.
--I'm also gaining skills through courses like Microsoft Power BI and Data Analysis with Python on Coursera, aiming to get the Power BI certification.
+- I'm also gaining skills through courses like Microsoft Power BI and Data Analysis with Python on Coursera, aiming to get the Power BI certification.
 - I’m preparing for my graduation in 2025 from the University of Auckland with a degree in Computer Science and Information Management Technology.
 
 ## 📬 Get in Touch
