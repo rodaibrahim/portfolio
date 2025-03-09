@@ -119,17 +119,17 @@ I have hands-on experience with the following tools and technologies, which help
 
 ---
 ## 🚀What I'm upto
-I’m working on my data analyst portfolio, focusing on Airbnb data analysis projects like Pricing Trends, Occupancy Rates, Host Behavior, and Review Sentiment Analysis. My interest in this project started when I did Airbnb hopping around Auckland this summer and became curious about the data behind it. I'm also gaining skills through courses like Microsoft Power BI and Data Analysis with Python on Coursera, aiming to get the Power BI certification.
-
-I’m preparing for my graduation in 2025 from the University of Auckland with a degree in Computer Science and Information Management Technology.
+- I’m working on my data analyst portfolio, focusing on Airbnb data analysis projects like Pricing Trends, Occupancy Rates, Host Behavior, and Review Sentiment Analysis. My interest in this project started when i begin noticing the price differences between the Airbnb properties I stayed at. This sparked my curiosity about how various factors impact pricing, occupancy, and profitability in the Airbnb market.
+-I'm also gaining skills through courses like Microsoft Power BI and Data Analysis with Python on Coursera, aiming to get the Power BI certification.
+- I’m preparing for my graduation in 2025 from the University of Auckland with a degree in Computer Science and Information Management Technology.
 
 ## 📬 Get in Touch
 
 Let’s connect! I’m always open to discussions, collaborations, and new opportunities.
 
-- 📧 **Email**: [your-email@example.com]
-- 🌐 **LinkedIn**: [Your LinkedIn URL]
-- 🌍 **GitHub**: [Your GitHub URL]
+- 📧 **Email**: [rodaibrahim26@gmail.com]
+- 📞 **Mobile**: [02041017780]
+- 🌍 **GitHub**: [Click Here](https://github.com/rodaibrahim/portfolio/)
 
 ---
 
