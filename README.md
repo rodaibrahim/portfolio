@@ -113,7 +113,7 @@ I believe in continuous learning and have completed various certifications to bu
 
 ---
 ## 🚀What I'm upto
-- I'm working on a project analyzing Airbnb data, focusing on Pricing Trends, Occupancy Rates, Host Behavior, and Review Sentiment Analysis. My interest in this project started when i begin noticing the price differences between the Airbnb properties I stayed at. This sparked my curiosity about how various factors impact pricing, occupancy, and profitability in the Airbnb market.
+- I'm working on a project analyzing Airbnb data, focusing on Pricing Trends, Occupancy Rates, Host Behavior, and Review Sentiment Analysis. My interest in this project started when i begin noticing the price differences between the Airbnb properties I stayed at. This sparked my curiosity about how various factors impact pricing, occupancy, and profitability in the Airbnb market. This project directly aligns with my goal of becoming a data analyst focused on uncovering actionable insights from complex data. 
 - I'm also gaining skills through courses like Microsoft Power BI and Data Analysis with Python on Coursera, aiming to get the Power BI certification.
 - I’m preparing for my graduation at the end of 2025 from the University of Auckland with a degree in Computer Science and Information Management Technology.
 
