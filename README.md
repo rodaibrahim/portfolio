@@ -11,7 +11,7 @@ I’m so passionate about research and problem-solving that I tend to dive deep 
 
 ## Skills & Technologies
 
-💡 **My core skills include:**
+💡 **Core Skills:**
 - **Data Analysis & Visualization:** Power BI, Tableau, Excel  
 - **Data Cleaning & Preparation:** SQL, Python  
 - **Statistical Analysis & Modeling:** Data Modeling, ERD Design  
@@ -27,7 +27,7 @@ Here are **4 KEY** projects I’ve worked on. Each of these demonstrates my skil
  
 📝 **Description**: 
 
-This Python program analyzes traveller arrival data to New Zealand from various regions across the months of November to February.
+This Python program analyzes traveler arrival data to New Zealand across various regions from November to February.
 
 📋**Steps**:
 - Using object-oriented programming, it organizes the data into three classes: Arrival (for monthly data), Region (for a region's data across months), and Continent (for data across multiple regions).
@@ -35,7 +35,7 @@ This Python program analyzes traveller arrival data to New Zealand from various 
 - This project helped me improve my skills in data handling, file processing, and object-oriented design.
 
 📈 Outcome:
-Gained insights into seasonal changes in traveler arrivals, helping to predict future trends for tourism-related businesses in New Zealand. This can assist organizations in better targeting their marketing strategies and optimizing resource allocation.
+The analysis provided insights into seasonal changes in traveler arrivals, demonstrating how such data could be used to predict future trends for tourism-related businesses in New Zealand. This can assist organizations in better targeting their marketing strategies and optimizing resource allocation.
 
 📂 **Repository**: [NZ-Resident Traveller Arrivals Analysis](https://github.com/rodaibrahim/portfolio/blob/main/NZ-Resident%20Traveller%20Arrivals%20Analysis.ipynb)
 
@@ -72,7 +72,7 @@ This project focused on handling and organizing data effectively, with a focus o
 - Iteratively refined the work to create a well-structured and functional data model.
   
 📈 Outcome:
-The final data model was used to improve the platform’s database structure, ensuring more efficient data storage, retrieval, and user interaction. This can lead to better system performance and user experience.
+The final data model was designed to improve the platform’s database structure, demonstrating how it could ensure more efficient data storage, retrieval, and user interaction. This can lead to better system performance and user experience.
 
 📂 **Repository**:[Design & Data Modeling](https://github.com/rodaibrahim/portfolio/blob/main/Design%20%26%20Data%20Modeling.pdf)
 
@@ -93,7 +93,7 @@ I developed skills in analyzing and designing business systems to solve real-wor
 - Explored how emerging technology trends like AI and IoT can transform industries.
 
 📈 Outcome:
-Provided actionable recommendations for Allbirds to improve their supply chain and reduce costs while enhancing sustainability. This project also demonstrated how emerging technologies could drive industry transformation, helping Allbirds stay competitive in the market.
+The project provided actionable recommendations for Allbirds, illustrating how they could improve their supply chain, reduce costs, and enhance sustainability. This project also demonstrated how emerging technologies could drive industry transformation, helping Allbirds stay competitive in the market.
 
 📂 **Repository**: [Strategic Data Analysis & Business Process Optimization](https://github.com/rodaibrahim/portfolio/blob/main/Allbirds-Sustainable-Footwear.doc)  
 
