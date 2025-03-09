@@ -87,13 +87,6 @@ I developed skills in analyzing and designing business systems to solve real-wor
 
 📂 **Repository**: [Strategic Data Analysis & Business Process Optimization](https://github.com/rodaibrahim/portfolio/blob/main/Allbirds-Sustainable-Footwear.doc)  
 🔧 **Technologies: Data Modeling, Process Modeling, ERD Design, AI, IoT, Porter’s Five Forces**
-   
-# Upcoming Projects
-### Analyzing Airbnb Market Trends
-📝 **Description**: I'm currently working on an upcoming project analyzing Airbnb rental data. While reminiscing about my previous holidays and browsing through photos on my camera, I started noticing the price differences between the Airbnb properties I stayed at. This sparked my curiosity about how various factors impact pricing, occupancy, and profitability in the Airbnb market. The project involves exploring various aspects such as pricing trends, occupancy rates, host behavior, and review sentiment analysis. I'll be diving into profitability analysis by identifying the most profitable cities or neighborhoods for Airbnb, examining seasonal pricing strategies, and performing competitor analysis to understand what makes top listings successful. Additionally, I’ll compare short-term and long-term rental strategies, analyze guest reviews for key insights, and develop a dynamic pricing model to optimize nightly rates based on factors like location and market demand.<br>
-📂 **Repository**: ***pending***<br>
-🔧 **Technologies**: Excel,Python, SQL, Power BI, Airbnb API (for data collection)
-
 
 ---
 
@@ -101,8 +94,8 @@ I developed skills in analyzing and designing business systems to solve real-wor
 
 I believe in continuous learning and have completed various certifications to build a strong foundation in data analysis. Here are some that I’m particularly proud of:
 
-- **IBM Data Analyst Professional Certificate** (Coursera) 📜         
-[https://github.com/rodaibrahim/portfolio/blob/main/Coursera%20W3OWB0FOVYSV.pdf](url)
+- **📜IBM Data Analyst Professional [Certificate](https://github.com/rodaibrahim/portfolio/blob/main/Coursera%20W3OWB0FOVYSV.pdf)** (Coursera)          
+
 
 ![image](https://github.com/user-attachments/assets/fc019141-80b2-4823-9b3e-70e6fdc35597)
 
