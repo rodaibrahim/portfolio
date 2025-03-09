@@ -12,17 +12,10 @@ I’m so passionate about research and problem-solving that I tend to dive deep 
 ## Skills & Technologies
 
 💡 **My core skills include**:
-- Data Cleaning and Preparation
-- Data Visualization
-- Statistical Analysis
-- SQL
-- Critical Thinking and Problem-Solving
-- Communication and Storytelling
-
-🌐 **Technologies I work with**:
-- **Languages:** Python, SQL
-- **Data Analysis & Visualization:** Power BI, Tableau, Excel
-- **Database & Modeling:** ERD Design, Data Modeling
+-** Data Analysis & Visualization:** Power BI, Tableau, Excel
+- **Data Cleaning & Preparation:** SQL, Python
+- **Statistical Analysis & Modeling:** Data Modeling, ERD Design
+- **Problem-Solving & Communication:** Critical Thinking, Storytelling
 ---
 
 ## 📊 Projects
