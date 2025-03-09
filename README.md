@@ -47,7 +47,9 @@ In this Group Project, we analyzed a dataset related to Top Spotify Songs to imp
 - First, we came up with five questions about the data that fit our theme. Then, we used Tableau to create visualizations and a dashboard to answer those questions.
 - We then built a prototype website using WIX to present our findings, making sure to apply visual design principles to make it clear and engaging.
 -  Finally, we reflected on our website design process and critiqued it based on what we learned about visual design. Overall, this assignment helped us develop skills in data analysis, visualization, and design while working as a team.
+  
 📂 **Repository**: [Top Spotify Songs](https://github.com/rodaibrahim/portfolio/blob/main/Top%20Spotify%20Songs.pdf)
+
 🔧 **Technologies: Excel, Tableau, Wix, Kaggle**
 
 ### SQL & Data Modeling for Business Applications
