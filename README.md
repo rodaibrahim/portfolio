@@ -72,7 +72,7 @@ This project focused on handling and organizing data effectively, with a focus o
 
 📝 **Description**:  
 
-I developed skills in analyzing and designing business systems to solve real-world problems. This work emphasized hands-on learning, including data modeling, process modeling, and system requirements gathering.
+I developed skills in analyzing and designing business systems to solve real-world problems. This project emphasized hands-on learning, including data modeling, process modeling, and determining system requirements.
 
 📋 **Steps**:  
 - Analyzed Allbirds, a sustainable footwear company, to understand their approach to addressing environmental challenges in the footwear industry.
@@ -100,9 +100,9 @@ I believe in continuous learning and have completed various certifications to bu
 
 ---
 ## 🚀What I'm upto
-- I’m working on my data analyst portfolio, focusing on Airbnb data analysis projects like Pricing Trends, Occupancy Rates, Host Behavior, and Review Sentiment Analysis. My interest in this project started when i begin noticing the price differences between the Airbnb properties I stayed at. This sparked my curiosity about how various factors impact pricing, occupancy, and profitability in the Airbnb market.
+- I'm working on a project analyzing Airbnb data, focusing on Pricing Trends, Occupancy Rates, Host Behavior, and Review Sentiment Analysis. My interest in this project started when i begin noticing the price differences between the Airbnb properties I stayed at. This sparked my curiosity about how various factors impact pricing, occupancy, and profitability in the Airbnb market.
 - I'm also gaining skills through courses like Microsoft Power BI and Data Analysis with Python on Coursera, aiming to get the Power BI certification.
-- I’m preparing for my graduation in 2025 from the University of Auckland with a degree in Computer Science and Information Management Technology.
+- I’m preparing for my graduation at the end of 2025 from the University of Auckland with a degree in Computer Science and Information Management Technology.
 
 ## 📬 Get in Touch
 
