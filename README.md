@@ -24,7 +24,7 @@ I’m so passionate about research and problem-solving that I tend to dive deep 
 ---
 
 ## 📊 Projects
-Here are 4 KEY projects I’ve worked on. Each of these demonstrates my skills in data analysis, visualization, and reporting.
+Here are **4 KEY** projects I’ve worked on. Each of these demonstrates my skills in data analysis, visualization, and reporting.
 
 
 ### PROJECT 1: Data Collection with Python
@@ -53,7 +53,7 @@ In this Group Project, we analyzed a dataset related to Top Spotify Songs to imp
 - We then built a prototype website using WIX to present our findings, making sure to apply visual design principles to make it clear and engaging.
 -  Finally, we reflected on our website design process and critiqued it based on what we learned about visual design. Overall, this assignment helped us develop skills in data analysis, visualization, and design while working as a team.
   
-   📂 **Repository**:[Top Spotify Songs](https://github.com/rodaibrahim/portfolio/blob/main/Top%20Spotify%20Songs.pdf)
+   📂 **Repository**: [Top Spotify Songs](https://github.com/rodaibrahim/portfolio/blob/main/Top%20Spotify%20Songs.pdf)
    
    🔧 **Technologies: Excel, Tableau, Wix, Kaggle**
 
@@ -68,12 +68,13 @@ This project focused on handling and organizing data effectively, with a focus o
 - Analyzed the platform's complex data requirements and improved an initial ERD generated using ChatGPT.
 - Identified design flaws in the initial database structure and refined it to accurately represent the relationships between users, authors, employees, novels, and transactions.
 - Iteratively refined the work to create a well-structured and functional data model.
-   📂 **Repository**:[Busan201 Design Assignment (2)](https://github.com/rodaibrahim/portfolio/blob/main/Busan201%20Design%20Assignment%20(2).pdf)
-   🔧 **Technologies: Microsoft SQL Server, SQL, ERD Design, Data Modeling**
+📂 **Repository**:[Busan201 Design Assignment (2)](https://github.com/rodaibrahim/portfolio/blob/main/Busan201%20Design%20Assignment%20(2).pdf)
+🔧 **Technologies: Microsoft SQL Server, SQL, ERD Design, Data Modeling**
    
 ### Strategic Data Analysis & Business Process Optimization
 
 📝 **Description**:  
+
 I developed skills in analyzing and designing business systems to solve real-world problems. This work emphasized hands-on learning, including data modeling, process modeling, and system requirements gathering.
 
 📋 **Steps**:  
@@ -85,7 +86,7 @@ I developed skills in analyzing and designing business systems to solve real-wor
 - Explored how emerging technology trends like AI and IoT can transform industries.
 
 📂 **Repository**: [Strategic Data Analysis & Business Process Optimization](https://github.com/rodaibrahim/portfolio/blob/main/Allbirds-Sustainable-Footwear.doc)  
-🔧 **Technologies**: Data Modeling, Process Modeling, ERD Design, AI, IoT, Porter’s Five Forces
+🔧 **Technologies: Data Modeling, Process Modeling, ERD Design, AI, IoT, Porter’s Five Forces**
    
 # Upcoming Projects
 ### Analyzing Airbnb Market Trends
