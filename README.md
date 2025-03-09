@@ -11,11 +11,12 @@ I’m so passionate about research and problem-solving that I tend to dive deep 
 
 ## Skills & Technologies
 
-💡 **My core skills include**:
--** Data Analysis & Visualization:** Power BI, Tableau, Excel
-- **Data Cleaning & Preparation:** SQL, Python
-- **Statistical Analysis & Modeling:** Data Modeling, ERD Design
-- **Problem-Solving & Communication:** Critical Thinking, Storytelling
+💡 **My core skills include:**
+- **Data Analysis & Visualization:** Power BI, Tableau, Excel  
+- **Data Cleaning & Preparation:** SQL, Python  
+- **Statistical Analysis & Modeling:** Data Modeling, ERD Design  
+- **Problem-Solving & Communication:** Critical Thinking, Storytelling  
+
 ---
 
 ## 📊 Projects
@@ -83,6 +84,7 @@ I developed skills in analyzing and designing business systems to solve real-wor
 - Explored how emerging technology trends like AI and IoT can transform industries.
 
 📂 **Repository**: [Strategic Data Analysis & Business Process Optimization](https://github.com/rodaibrahim/portfolio/blob/main/Allbirds-Sustainable-Footwear.doc)  
+ch
 🔧 **Technologies: Data Modeling, Process Modeling, ERD Design, AI, IoT, Porter’s Five Forces**
 
 ---
