@@ -64,7 +64,7 @@ This project focused on handling and organizing data effectively, with a focus o
 - Identified design flaws in the initial database structure and refined it to accurately represent the relationships between users, authors, employees, novels, and transactions.
 - Iteratively refined the work to create a well-structured and functional data model.
 
-📂 **Repository**:[Data Modeling Assignment](https://github.com/rodaibrahim/portfolio/blob/main/Busan201%20Design%20Assignment%20(2).pdf)
+📂 **Repository**:[Design & Data Modeling](https://github.com/rodaibrahim/portfolio/blob/main/Design%20%26%20Data%20Modeling.pdf)
 
 🔧 **Technologies:ERD Design, Data Modeling,SQL**
    
