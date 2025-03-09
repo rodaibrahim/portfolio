@@ -24,7 +24,7 @@ I’m so passionate about research and problem-solving that I tend to dive deep 
 ---
 
 ## 📊 Projects
-Here are 5 KEY projects I’ve worked on. Each of these demonstrates my skills in data analysis, visualization, and reporting.
+Here are 4 KEY projects I’ve worked on. Each of these demonstrates my skills in data analysis, visualization, and reporting.
 
 
 ### PROJECT 1: Data Collection with Python
@@ -70,14 +70,6 @@ This project focused on handling and organizing data effectively, with a focus o
 - Iteratively refined the work to create a well-structured and functional data model.
    📂 **Repository**:[Busan201 Design Assignment (2)](https://github.com/rodaibrahim/portfolio/blob/main/Busan201%20Design%20Assignment%20(2).pdf)
    🔧 **Technologies: Microsoft SQL Server, SQL, ERD Design, Data Modeling**
-
-# choose between projext 2 or 4
-
- ### Data Analysis and Database Modeling for Tech Trends ###  ##infgmt indidiuval assignment##
-📝 **Description**: In this assignment, I worked on three main tasks to develop my skills in data analysis, database design, and technology trends. First, I used spreadsheets to analyze employee data, calculating things like tenure, bonuses, and salaries, and creating pivot tables to explore trends across departments and demographics. Next, I designed a logical Entity-Relationship Diagram (ERD) for a healthcare clinic system, making sure to include entities like employees, patients, appointments, and treatment plans. Finally, I researched and wrote about how two emerging technology trends (like AI or IoT) could be applied in an industry of my choice, linking it to competitive strategies. It was a great way to practice data manipulation, database modeling, and strategic thinking!<br>
-   📂 **Repository**: [https://github.com/rodaibrahim/portfolio/blob/main/technology%20trends.pdf](url)<br>
-   🔧 **Technologies**: Excel, ERD
-
    
 ### Strategic Data Analysis & Business Process Optimization
 
