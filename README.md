@@ -123,8 +123,6 @@ Let’s connect! I’m always open to discussions, collaborations, and new oppor
 
 - 📧 **Email**: [rodaibrahim26@gmail.com]
 - 📞 **Mobile**: [02041017780]
-- 🌍 **GitHub**: [Click Here](https://github.com/rodaibrahim/portfolio/)
-
 ---
 
 Thank you for visiting my portfolio! I look forward to connecting with you soon. 😊
