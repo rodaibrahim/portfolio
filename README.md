@@ -34,7 +34,7 @@ This Python program analyzes traveler arrival data to New Zealand across various
 - The program reads data from text files (e.g., AU_NOV.txt), processes it, and organizes the arrival statistics by region and continent.
 - This project helped me improve my skills in data handling, file processing, and object-oriented design.
 
-📈 Outcome:
+**📈 Outcome:**
 The analysis provided insights into seasonal changes in traveler arrivals, demonstrating how such data could be used to predict future trends for tourism-related businesses in New Zealand. This can assist organizations in better targeting their marketing strategies and optimizing resource allocation.
 
 📂 **Repository**: [NZ-Resident Traveller Arrivals Analysis](https://github.com/rodaibrahim/portfolio/blob/main/NZ-Resident%20Traveller%20Arrivals%20Analysis.ipynb)
@@ -51,8 +51,8 @@ In this Group Project, we analyzed a dataset related to Top Spotify Songs to imp
 - First, we came up with five questions about the data that fit our theme. Then, we used Tableau to create visualizations and a dashboard to answer those questions.
 - We then built a prototype website using WIX to present our findings, making sure to apply visual design principles to make it clear and engaging.
 -  Finally, we reflected on our website design process and critiqued it based on what we learned about visual design. Overall, this assignment helped us develop skills in data analysis, visualization, and design while working as a team.
--  
-📈 Outcome:
+
+**📈 Outcome:**
 The project provided valuable insights into music trends, helping to identify patterns in song popularity and listening behaviors. These insights can be used by marketing teams in the music industry to tailor promotions and increase engagement with their audience.
   
 📂 **Repository**: [Top Spotify Songs](https://github.com/rodaibrahim/portfolio/blob/main/Top%20Spotify%20Songs.pdf)
@@ -71,7 +71,7 @@ This project focused on handling and organizing data effectively, with a focus o
 - Identified design flaws in the initial database structure and refined it to accurately represent the relationships between users, authors, employees, novels, and transactions.
 - Iteratively refined the work to create a well-structured and functional data model.
   
-📈 Outcome:
+**📈 Outcome:**
 The final data model was designed to improve the platform’s database structure, demonstrating how it could ensure more efficient data storage, retrieval, and user interaction. This can lead to better system performance and user experience.
 
 📂 **Repository**:[Design & Data Modeling](https://github.com/rodaibrahim/portfolio/blob/main/Design%20%26%20Data%20Modeling.pdf)
@@ -92,7 +92,7 @@ I developed skills in analyzing and designing business systems to solve real-wor
 - Conducted data analysis and modeling using spreadsheets, and developed logical ERDs for database design.
 - Explored how emerging technology trends like AI and IoT can transform industries.
 
-📈 Outcome:
+**📈 Outcome:**
 The project provided actionable recommendations for Allbirds, illustrating how they could improve their supply chain, reduce costs, and enhance sustainability. This project also demonstrated how emerging technologies could drive industry transformation, helping Allbirds stay competitive in the market.
 
 📂 **Repository**: [Strategic Data Analysis & Business Process Optimization](https://github.com/rodaibrahim/portfolio/blob/main/Allbirds-Sustainable-Footwear.doc)  
@@ -122,7 +122,7 @@ I believe in continuous learning and have completed various certifications to bu
 Let’s connect! I’m always open to discussions, collaborations, and new opportunities.
 
 - 📧 **Email**: [rodaibrahim26@gmail.com]
-- 📞 **Mobile**: [02041017780]
+- 📞**Mobile**:[02041017780]
 ---
 
 Thank you for visiting my portfolio! I look forward to connecting with you soon. 😊
