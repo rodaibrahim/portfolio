@@ -127,7 +127,9 @@ I’m committed to lifelong learning. Here are some of the credentials I’ve ea
 I’d love to hear from you—whether it’s about collaboration, opportunities, or data talk!
 
 📧 **Email**:[ rodaibrahim26@gmail.com  ](url)
+
 ℹ️**Linkedin** [www.linkedin.com/in/roda-ibrahim1](url)
+
 📱 **Mobile**: 02041017780  
 
 ---
