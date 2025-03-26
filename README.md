@@ -18,7 +18,7 @@ I’ve always been someone who dives deep into problems—whether I’m analyzin
 
 💡 **Core Competencies**  
 - **Data Analysis & Visualization**: Power BI, Tableau, Excel  
-- **Data Cleaning & Preparation**: SQL, Python  
+- **Data Cleaning & Preparation**: SQL, Python,  
 - **Statistical Analysis & Modeling**: Data Modeling, ERD Design  
 - **Problem Solving & Communication**: Critical Thinking, Storytelling  
 
@@ -29,6 +29,22 @@ I’ve always been someone who dives deep into problems—whether I’m analyzin
 Here are **four key** projects that reflect my hands-on experience with data and my ability to solve real-world problems using analytics.
 
 ---
+
+### ♻️ Strategic Data Analysis – Allbirds Business Optimization
+
+**Description**:  
+Conducted business analysis for Allbirds, a sustainable footwear company, to identify ways to optimize their operations and processes.
+
+**Key Steps**:
+- Applied Porter’s Five Forces & value chain analysis
+- Proposed sustainability-driven improvements like cargo monitoring tech
+- Explored AI & IoT trends to recommend future-proof strategies
+
+**Outcome**:  
+Generated practical recommendations to streamline operations and boost sustainability efforts.
+
+🔗 [View Project](https://github.com/rodaibrahim/portfolio/blob/main/Allbirds-Sustainable-Footwear.doc)  
+🔧 **Tech Used**: Data Modeling, ERD, Business Process Modeling  
 
 ### 📌 NZ Traveller Arrival Data (Python)
 
@@ -81,24 +97,6 @@ Enhanced data organization and system usability, resulting in better user experi
 
 🔗 [View Project](https://github.com/rodaibrahim/portfolio/blob/main/Design%20%26%20Data%20Modeling.pdf)  
 🔧 **Tech Used**: SQL, ERD Design, Data Modeling, Python  
-
----
-
-### ♻️ Strategic Data Analysis – Allbirds Business Optimization
-
-**Description**:  
-Conducted business analysis for Allbirds, a sustainable footwear company, to identify ways to optimize their operations and processes.
-
-**Key Steps**:
-- Applied Porter’s Five Forces & value chain analysis
-- Proposed sustainability-driven improvements like cargo monitoring tech
-- Explored AI & IoT trends to recommend future-proof strategies
-
-**Outcome**:  
-Generated practical recommendations to streamline operations and boost sustainability efforts.
-
-🔗 [View Project](https://github.com/rodaibrahim/portfolio/blob/main/Allbirds-Sustainable-Footwear.doc)  
-🔧 **Tech Used**: Data Modeling, ERD, Business Process Modeling  
 
 ---
 
