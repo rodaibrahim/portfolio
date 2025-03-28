@@ -43,7 +43,7 @@ Conducted business analysis for Allbirds, a sustainable footwear company, to ide
 **Outcome**:  
 Generated practical recommendations to streamline operations and boost sustainability efforts.
 
-🔗 [View Project](https://github.com/rodaibrahim/portfolio/blob/main/Allbirds-Sustainable-Footwear.doc)  
+🔗 [View Project](https://github.com/rodaibrahim/portfolio/blob/main/Allbirds'%20Sustainable%20Footwear%20(4).docx)
 🔧 **Tech Used**: Data Modeling, ERD, Business Process Modeling  
 
 ### 📌 NZ Traveller Arrival Data (Python)
