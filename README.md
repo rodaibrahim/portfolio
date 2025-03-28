@@ -6,7 +6,7 @@
 
 #### Hi, I’m Roda!
 
-I’m currently studying **Computer Science and Information Management Technology** at the University of Auckland, with a deep passion for data analysis, statistical modeling, and transforming raw data into meaningful insights.
+I’m currently studying **Computer Science &  Information and Technology Management** at the University of Auckland, with a deep passion for data analysis, statistical modeling, and transforming raw data into meaningful insights.
 
 <h4 align="center">Why Data Analytics?</h4>
 
