@@ -30,7 +30,7 @@ Here are **four key** projects that reflect my hands-on experience with data and
 
 ---
 
-### ♻️ Strategic Data Analysis – Allbirds Business Optimization
+### ♻️ Strategic Business Analysis – Allbirds Business Optimization
 
 **Description**:  
 Conducted business analysis for Allbirds, a sustainable footwear company, to identify ways to optimize their operations and processes.
